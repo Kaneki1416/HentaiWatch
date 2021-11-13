@@ -6,7 +6,7 @@ hentai
 idna
 meval
 pyaes
-git+https://github.com/AmanoTeam/pyrogram.git
+pyrogram
 PySocks
 requests
 TgCrypto
